@@ -7,7 +7,7 @@
 *<h2>Descrição:</h2>*
 
 <p>
-Projeto de uma lista de taferas feita em javascript e armazena os dados no Localstorege e quando envia uma nova
+Projeto de uma lista de taferas feita em javascript, armazena os dados no Localstorege e quando envia uma nova
 tarefa a cor de fundo muda aleatóriamente :)) Obg por se interessar no projeto!!
 </p>
 
